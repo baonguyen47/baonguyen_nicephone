@@ -1,0 +1,18 @@
+Chức năng của trang web
+
+- Trang mua hàng:
+1) Đăng nhập
+2) Đăng kí
+3) Đổi mật khẩu
+4) Tìm kiếm sản phẩm
+5) Thêm sản phẩm vào giỏ hàng
+6) Tăng/Giảm số lượng sản phẩm trong giỏ hàng
+7) Xoá một sản khỏi giỏ hàng
+8) Xoá tất cả sản khỏi giỏ hàng
+9) Đặt hàng
+
+-Trang Admin
+1) Đăng nhập
+2) Quản lý danh mục sản phẩm (Thêm/Sửa/Xoá)
+3) Quản lý sản phẩm (Thêm/Sửa/Xoá)
+4) Quản lý đơn hàng (Xác nhận/kiểm tra chi tiết đơn hàng)
